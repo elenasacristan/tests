@@ -1,0 +1,42 @@
+.bg-image-login {
+  background-image: url('../img/bkg3.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-side-login{
+background-color: #ffffff;
+}
+
+.cando li {
+list-style: none;
+background: url('../img/tick2.png') no-repeat left top;
+height: 80px;
+padding-left: 70px;
+padding-top: 50px;
+}
+
+.bg-light {
+    background-color: #a9a9a9!important;
+}
+
+
+.login-button {
+    color: #fff;
+    background-color: #ff9907;
+    border-color: #ff9907;
+}
+
+
+.btn-block {
+    width: 50%;
+    margin: auto;
+}
+
+
+
+
+.sentence{
+   margin-bottom: 150px;
+}
+    
